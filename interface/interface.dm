@@ -28,7 +28,7 @@
 	set desc = "Join the discord."
 	set hidden = 1
 
-	src << link("https://discord.gg/6TCXhjXKmX")
+	src << link("https://discord.gg/bx9c7ha5Qk")
 	return
 
 #define RULES_FILE "config/rules.html"
